@@ -64,8 +64,8 @@ I'm a FullStack developer and I enjoy learning and exploring new technologies. T
 |--------------------------------|---------------------|---------------|
 | 🖥️ **ILanding**          | Landing page for businesses, startups, and digital projects with a sleek design and easy usability. using **NextJs**, **tailwindcss** and **motion-framer**  | [Repository](https://github.com/boypirunporn/iLanding) |
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **NextJs**  | [Repository](https://github.com/boypirunporn/portfolio) |
-| 🖥️ **Restaurants With Google Place Api**          | It is a search and display of a list of restaurants within a radius of 5 kilometers from you. using **React (Typescript)**, **Redux** and **MUI**   | [Repository](https://github.com/boypirunporn/restaurantsWithGooglePlaceApi) |
-| 🖥️ **QuizApp**          | A simple trivia game where players answer multiple-choice questions and keep track of their scores on the scoreboard. using **Recat-Native**, **Firebase FireStore**  | [Repository](https://github.com/boypirunporn/ReactNativeQuizApp) |
+| 🍽️ **Restaurants With Google Place Api**          | It is a search and display of a list of restaurants within a radius of 5 kilometers from you. using **React (Typescript)**, **Redux** and **MUI**   | [Repository](https://github.com/boypirunporn/restaurantsWithGooglePlaceApi) |
+| 📝 **QuizApp**          | A simple trivia game where players answer multiple-choice questions and keep track of their scores on the scoreboard. using **Recat-Native**, **Firebase FireStore**  | [Repository](https://github.com/boypirunporn/ReactNativeQuizApp) |
 
 ### Socials
 
