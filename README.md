@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boy Pirunporn
 =====================================================================================================================================
 
-FullStack Developer
--------------------
-
-I'm a FullStack developer and I enjoy learning and exploring new technologies. To continuously improve my skills.
+I'm a **`Fullstack Developer`** and I enjoy learning and exploring new technologies. To continuously improve my skills.
 
 * 🌍  I'm based in Bankok, Thailand
 * 🖥️  See my portfolio at [MyPortfoliy](http://portfolio-pirunporns-projects.vercel.app/)
