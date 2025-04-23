@@ -6,7 +6,6 @@ I'm a **`Fullstack Developer`** and I enjoy learning and exploring new technolog
 * 🌍  I'm based in Bankok, Thailand
 * 🖥️  See my portfolio at [MyPortfoliy](https://portfolio-pearl-psi-31.vercel.app/)
 * ✉️  You can contact me at [pirunporn.aia@gmail.com](mailto:pirunporn.aia@gmail.com)
-* 
 ## 🧰 Technical Proficiencies
 ### Languages
 
