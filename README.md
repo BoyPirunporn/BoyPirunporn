@@ -62,6 +62,7 @@ I'm a **`Fullstack Developer`** and I enjoy learning and exploring new technolog
 | 🖥️ **Portfolio Website**          | My personal portfolio showcasing skills & projects using **NextJs**  | [Repository](https://github.com/boypirunporn/portfolio) |
 | 🍽️ **Restaurants With Google Place Api**          | It is a search and display of a list of restaurants within a radius of 5 kilometers from you. using **React (Typescript)**, **Redux** and **MUI**   | [Repository](https://github.com/boypirunporn/restaurantsWithGooglePlaceApi) |
 | 📝 **QuizApp**          | A simple trivia game where players answer multiple-choice questions and keep track of their scores on the scoreboard. using **Recat-Native**, **Firebase FireStore**  | [Repository](https://github.com/boypirunporn/ReactNativeQuizApp) |
+| 🌐 **Todo Api**          | This is a simple Todo API built using Node.js and Express.js. It implements basic CRUD (Create, Read, Update, Delete) with **NodeJS**, **ExpressJS**  | [Repository](https://github.com/boypirunporn/node-todo-api) |
 
 ### Socials
 
