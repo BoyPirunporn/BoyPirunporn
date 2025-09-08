@@ -14,6 +14,7 @@ I'm a **`Fullstack Developer`** and I enjoy learning and exploring new technolog
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=v)](https://skillicons.dev)
 
 ### Frameworks & Libraries
@@ -23,6 +24,7 @@ I'm a **`Fullstack Developer`** and I enjoy learning and exploring new technolog
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 ### Frontend Technologies
 
@@ -42,8 +44,9 @@ I'm a **`Fullstack Developer`** and I enjoy learning and exploring new technolog
             height="40" />
     </a>
     <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql,redis" alt="mssql"  />
+        <img src="https://skillicons.dev/icons?i=mysql,redis,postgres" alt="mssql"  />
     </a>
+    
 </p>
 
 
